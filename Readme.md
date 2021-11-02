@@ -38,6 +38,7 @@ here's a checklist, This endpoint should perform the following functionality:
 - [] Should gather the latest order book
 - [] Should calculate the correct value given a market, side and amount
 - [] Should save the quote to a database for later (market, buy, amount, quoteAmount, timeCreated)
+- [] Should work for other markets listed on the bitvavo website (https://bitvavo.com/en/markets)
 - [] Should return the correct amount in either crypto or fiat.
 
 Optionally projects which incorporate the correct fee of 0.25% into the quote calculation will be scored higher.
