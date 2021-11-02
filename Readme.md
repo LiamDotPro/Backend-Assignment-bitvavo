@@ -7,8 +7,7 @@ Before we give you the requirements for the functionality it's important to look
 - Typescript (If this is your first time, we're not expecting anything advanced)
 - A database of your choice (SQL, NoSQL) (We suggest including a docker-compose that makes this simple to run or using inmemory)
 - Express or Apollo Server
-- Kubernetes Cluster (Should be runnable using a local cluster)
-
+- Kubernetes (Should be runnable using a local cluster)
 
 We're expecting most candidates to be comfortable using REST, although projects which use graphql will be weighted higher.
 
