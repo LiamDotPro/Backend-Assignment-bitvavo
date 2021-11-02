@@ -5,8 +5,12 @@ In this assignment you will be working on creating quotes for the most popular c
 Before we give you the requirements for the functionality it's important to look at which technologies we are expecting you to use:
 
 - Typescript (If this is your first time, we're not expecting anything advanced)
+- A database of your choice (SQL, NoSQL) (We suggest including a docker-compose that makes this simple to run or using inmemory)
+
 - Serverless Framework & plugins (We suggest using `serverless-offline` for developing locally, https://www.serverless.com/)
-- A SQL database of your choice (We suggest including a docker-compose that makes this simple too run or using inmemory)
+or
+- Kubernetes Cluster (Should be runnable using a local cluster)
+
 
 We're expecting most candidates to be comfortable using REST, although projects which use graphql will be weighted higher.
 
