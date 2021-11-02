@@ -69,4 +69,6 @@ here's a checklist, This endpoint should perform the following functionality:
 
 To conclude if you have any issues during this assignment or something isn't working please let us know, and we will do our best to help you out. Furthermore, if you choose to make use of other technologies other than the ones mentioned above can you please write some notes justifying there use and why they make your soloution better.
 
-Once you are happy that your solution provides all the functionality mentioned above and can be run please send over a link to liam@bitvavo.com, and we will review your solution.
+Once you are happy that your solution provides all the functionality mentioned above and can be run please send over a link to liam@bitvavo.com alongside instructions for running the project, and we will review your solution.
+
+Thanks for taking the time to complete our assignment 🚀
