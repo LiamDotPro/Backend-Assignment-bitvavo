@@ -2,11 +2,11 @@
 
 In this assignment you will be working on creating quotes for the most popular cryptocurrency on the planet Bitcoin. Alongside creating the functionality to find the current up to date prices you will be working with the bitvavo websocket api and an orderbook.
 
-Before we give you the requirements for the functionality it's important to look at which technologies expecting you to use:
+Before we give you the requirements for the functionality it's important to look at which technologies we are expecting you to use:
 
 - Typescript (If this is your first time, we're not expecting anything advanced)
-- Serverless Framework & plugins (We suggest using `serverless-offline` for developing locally)
-- A SQL database of your choice
+- Serverless Framework & plugins (We suggest using `serverless-offline` for developing locally, https://www.serverless.com/)
+- A SQL database of your choice (We suggest including a docker-compose that makes this simple too run or using inmemory)
 
 We're expecting most candidates to be comfortable using REST, although projects which use graphql will be weighted higher.
 
