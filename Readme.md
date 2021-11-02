@@ -6,9 +6,7 @@ Before we give you the requirements for the functionality it's important to look
 
 - Typescript (If this is your first time, we're not expecting anything advanced)
 - A database of your choice (SQL, NoSQL) (We suggest including a docker-compose that makes this simple to run or using inmemory)
-
-- Serverless Framework & plugins (We suggest using `serverless-offline` for developing locally, https://www.serverless.com/)
-or
+- Express or Apollo Server
 - Kubernetes Cluster (Should be runnable using a local cluster)
 
 
