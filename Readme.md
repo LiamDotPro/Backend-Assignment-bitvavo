@@ -10,7 +10,7 @@ Before we give you the requirements for the functionality it's important to look
 
 We're expecting most candidates to be comfortable using REST, although projects which use graphql will be weighted higher.
 
-Other than the above technologies that are a hard requirement you may also use other libraries too make the job simpler, though we will ask you to justify there use later.
+Other than the above technologies that are a hard requirements you may also use other libraries too make the job simpler, though we will ask you to justify there use later.
 
 When construing your solution we expect minimal comments, your code should be formatted in a simple to read manner (maybe consider a linter) and be simple to understand from just following the code through. Please make sure you only submit code which you consider to be production ready, code which has obvious flaws will work directly against you, less code which is written well is simpler for us to review and makes you look better.
 
